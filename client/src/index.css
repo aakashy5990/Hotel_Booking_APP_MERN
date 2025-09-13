@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap');
+
+@import "tailwindcss";
+
+@theme{
+  --color-primary: #2563EB;
+  --color-header-primary:#49B9FF;
+  --color-secondary: #FBBF24;
+  --color-tertiary: #000000;
+  --color-quaternary: #000000;
+  --color-quinary: #000000;
+  --color-senary: #000000;
+  --color-septenary: #000000;
+  --color-octonary: #000000;
+  --color-nonary: #000000;
+  --color-denary: #000000;
+  --color-undenary: #000000;
+  --color-duodenary: #000000;
+  --color-tredecenary: #000000;
+  --color-quindecenary: #000000;
+  --color-sexdecenary: #000000;
+  --color-septendecenary: #000000;
+  --color-octodecenary: #000000;
+  --color-novenary: #000000;
+  --color-vigintenary: #000000;
+  --color-vigintenary: #000000;
+  --color-vigintenary: #000000;
+}
+
+*{
+  font-family: Outfit;
+}
+
+.font-playfair{
+  font-family: Playfair !important;
+}
